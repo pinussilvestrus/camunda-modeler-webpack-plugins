@@ -1,3 +1,5 @@
+> This project is deprecated. Please head over to [camunda/camunda-modeler-webpack-plugin](https://github.com/camunda/camunda-modeler-webpack-plugin) to use the current version.
+
 # camunda-modeler-webpack-plugins
 
 [![Build Status](https://github.com/pinussilvestrus/camunda-modeler-webpack-plugins/workflows/CI/badge.svg)](https://github.com/pinussilvestrus/camunda-modeler-webpack-plugins/actions?query=workflow%3ACI)
